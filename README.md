@@ -1,5 +1,9 @@
 # Ziglings
+
+This repo contains my solutions to the ziglings exercises.
+
 # ⚠️ Ziglings has moved from GitHub to Codeberg!
+
 
 You are looking at the current Ziglings repo if you are viewing
 this at https://codeberg.org/ziglings/exercises/
